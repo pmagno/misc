@@ -1,4 +1,16 @@
+##############
+### HUAWEI ###
+terms-dre.platform.dbankcloud.com
+weather-dre.weather.dbankcloud.com
+store-dre.hispace.dbankcloud.com
+sdkserver-dre.op.dbankcloud.com
+
+##############
+### XIAOMI ###
 0.0.0.0 awsde0.fds.api.xiaomi.com
+
+##############
+#### MISC ####
 0.0.0.0 amaronquanta.com
 0.0.0.0 tic.camplus.hk
 0.0.0.0 mezabsa.com
