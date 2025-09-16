@@ -7,7 +7,7 @@ sdkserver-dre.op.dbankcloud.com
 
 ##############
 ### XIAOMI ###
-0.0.0.0 awsde0.fds.api.xiaomi.com
+#0.0.0.0 awsde0.fds.api.xiaomi.com
 
 ##############
 #### MISC ####
